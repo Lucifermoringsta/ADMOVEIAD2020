@@ -1,5 +1,5 @@
 # Update
-MT_BOT_UPDATES = "t.me/Mo_tech_YT"
+Join My Goup = "t.me/ADMOVEIAD"
 # Your Main Channel
-BOT_UPDATES = "t.me/Mo_Tech_YT"
+Join MY Canneil = "t.me/ADMOVEI"
 
